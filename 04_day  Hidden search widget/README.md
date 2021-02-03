@@ -2,4 +2,4 @@
 
 Dropdown search input.
 
-[DEMO](https://voloshin-sergei.github.io/50_days/01_day%20Expanding%20cards/)
+[DEMO](https://voloshin-sergei.github.io/50_days/04_day%20Hidden%20search%/width)
